@@ -433,3 +433,5 @@ Kullanıcıdan istenilen **5 adet** kitabı bellekte tutup **verilen indise** g�
 Cevap Anahtarı Eşleştirme Programı
 -----------------------------------
 **2** öğrencinin cevaplarını **cevap anahtarı** ile karşılaştırıp **doğru sayısını** ekrana yazdıran C++ programını yazınız.
+<br/><br/>
+`Hata,görüş ve yardım için iletişim: tamer.erdogaan@gmail.com`
